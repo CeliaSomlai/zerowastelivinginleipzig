@@ -12,17 +12,19 @@ Zero waste/unpackaged/package free shops are magical places, where you can refil
 
 I believe we are really lucky in Leipzig as there are 4 (four!) amazing dedicated package free shops.
 
-###Einfach Unverpackt
+### Einfach Unverpackt
 
 [Einfach Unverpackt](https://www.einfach-unverpackt.de/) has two shops; one in Südvorstadt in Kochstraße that opened back in 2016 and the newer one which opened last year in Schleußig in Könneritzstraße. You can follow them on [Facebook](https://www.facebook.com/EinfachUnverpackt/) and [Instagram](https://www.instagram.com/einfachunverpackt/).
 
-###Locker und Lose
+### Locker und Lose
 [Locker und Lose](https://locker-lose.de/) is located in Reudnitz in Josaphinestraße just next to the Lene-Voigt-Park. You can follow them on [Facebook](https://www.facebook.com/lockerloseleipzig/) and [Instagram](https://www.instagram.com/lockerloseleipzig/).
 
-###lieber lose
+### lieber lose
 [Lieberlose](https://www.lieberlose.de/) opened in 2019 in Weißenfelser Straße in Reudnitz. You can follow them on [Facebook](facebook.com/lieberlose) and [Instagram](www.instagram.com/lieberlose).
 
 I personally believe that all the four shop sell a full range of products, so I suggest that you check out ALL of them! Visit them regularly and give them your support!
+
+I hope to edit this list, so please let me know if you know about other shops in Leipzig!
 
 
 
