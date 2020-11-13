@@ -54,6 +54,16 @@ enforce_ssl: https://www.zerowastelivinginleipzig.de
 # then add in the baseurl here, like this: "/repository-name"
 #baseurl: #"/reverie"
 
+# multilanguages tryouts by CS
+
+languages: ["en", "de"]
+#To avoid redundancy, it is possible to exclude files and folders from being copied to the localization folders.
+exclude_from_localizations: ["javascript", "images", "css", "assets", "CNAME"]
+defaultLang: en
+languageNames:
+  de: Deutsch
+  en: English
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
@@ -83,6 +93,7 @@ plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-multiple-languages-plugin
 
 include: ['_pages']
 
