@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Package free shopping in Leipzig
-categories: [HTML,Code]
+categories: []
 
 ---
 
