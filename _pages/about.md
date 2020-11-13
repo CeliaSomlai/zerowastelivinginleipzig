@@ -1,12 +1,7 @@
 ---
 layout: page
 title: About
-
-namespace: about/
-permalink: /about-us/
-permalink_de: /ueber-uns/
+permalink: /about/
 ---
 
-{% tf about.md %}
-
-<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me with a coffee', '#29abe0', 'L4L02NFV5');kofiwidget2.draw();</script> 
+Zero Waste Living in Leipzig started as a Meetup group in June 2020 when I (Celia) moved to Leipzig. I am an environmental researcher and zero waste living advocate. I like to share with people all the amazing sustainable options available to them.
