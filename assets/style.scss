@@ -1145,10 +1145,11 @@ Modules - reusable parts of our design
 
 .button-kofi {  
     position: absolute;
-    min-width: 250px;
-    left: 40%;
-    right: 40%;
-    padding: 10px;
+    min-width: 210px;
+    left: 50%;
+    right: 50%;
+    padding: 0px;
+    transform: translate(-50%, -15%);
 }
 
 
