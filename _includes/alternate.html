@@ -1,0 +1,9 @@
+{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+
+{% if posts.size == 0 %}
+{% assign posts=site.pages | where:"ref", page.ref | sort: 'lang' %}
+{% endif %}
+
+{% for post in posts %}
+<link rel="alternate" href="{{ site.canonical_url }}{{ post.url }}" hreflang="{{ post.lang }}">
+{% endfor %}
