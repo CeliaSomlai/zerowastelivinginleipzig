@@ -20,7 +20,7 @@ I believe we are really lucky in Leipzig as there are 4 (four!) amazing dedicate
 [Locker und Lose](https://locker-lose.de/) is located in Reudnitz in Josaphinestraße just next to the Lene-Voigt-Park. You can follow them on [Facebook](https://www.facebook.com/lockerloseleipzig/) and [Instagram](https://www.instagram.com/lockerloseleipzig/).
 
 ### lieber lose
-[Lieberlose](https://www.lieberlose.de/) opened in 2019 in Weißenfelser Straße in Reudnitz. You can follow them on [Facebook](facebook.com/lieberlose) and [Instagram](www.instagram.com/lieberlose).
+[Lieberlose](https://www.lieberlose.de/) opened in 2019 in Weißenfelser Straße in Plagwitz. You can follow them on [Facebook](facebook.com/lieberlose) and [Instagram](www.instagram.com/lieberlose).
 
 I personally believe that all the four shop sell a full range of products, so I suggest that you check out ALL of them! Visit them regularly and give them your support!
 
