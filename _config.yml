@@ -107,11 +107,6 @@ defaults:
         layout: default
     -
         scope:
-        path: "es/"
-        values:
-        lang: "es"
-    -
-        scope:
         path: "de/"
         values:
         lang: "de"
