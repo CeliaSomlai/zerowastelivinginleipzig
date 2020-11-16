@@ -2,6 +2,8 @@
 layout: page
 title: Search
 permalink: /search/
+lang: en
+ref: search
 ---
 
 <div id="search-container">
