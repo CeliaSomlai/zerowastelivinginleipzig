@@ -1,9 +1,15 @@
+<ul>
 {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-
-{% if posts.size == 0 %}
-{% assign posts=site.pages | where:"ref", page.ref | sort: 'lang' %}
-{% endif %}
-
 {% for post in posts %}
-<link rel="alternate" href="{{ site.canonical_url }}{{ post.url }}" hreflang="{{ post.lang }}">
+  <li>
+    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+  </li>
 {% endfor %}
+
+{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+{% for page in pages %}
+  <li>
+    <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+  </li>
+{% endfor %}
+</ul>
