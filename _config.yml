@@ -101,17 +101,17 @@ exclude:
 defaults:
     -
         scope:
-        path: ""
+        path: "en/"
         values:
         lang: "en"
         layout: default
     -
         scope:
-        path: "es"
+        path: "es/"
         values:
         lang: "es"
     -
         scope:
-        path: "de"
+        path: "de/"
         values:
         lang: "de"
