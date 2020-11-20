@@ -37,14 +37,6 @@ body {
   width: 100%;
 }
 
-.container2 {
-    position: absolute;
-    min-width: 185px;
-    left: 50%;
-    right: 50%;
-    padding: 0px;
-    transform: translate(-50%, -15%);
-}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -136,6 +128,7 @@ table tr th :last-child,
 table tr td :last-child {
 	margin-bottom: 0;
 }
+
 
 /*.detailed .entry p:first-of-type:first-letter {
     float: left;
