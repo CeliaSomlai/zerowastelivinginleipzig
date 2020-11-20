@@ -129,9 +129,13 @@ table tr td :last-child {
 	margin-bottom: 0;
 }
 
-#tr2{
+#table2{
 width: 100%;
-text-align: center;
+background-color: #FAFAFA;
+}
+
+#table2 tr td {
+	text-align: center;
 }
 
 /*.detailed .entry p:first-of-type:first-letter {
