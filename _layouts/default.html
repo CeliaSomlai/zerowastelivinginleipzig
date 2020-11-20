@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en' }}">
   <head>
+  {% include alternate.html %}
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
     {% seo title=false %}
     	
@@ -10,7 +11,7 @@
 
     <meta name="theme-color" content="#000000">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
-	{% include alternate.html %}
+	
   </head>
 
   <body>
@@ -27,10 +28,10 @@
             </div>
 
             <nav>
-              <a href="{{ site.baseurl }}/">Home</a>
-              <a href="{{ site.baseurl }}/zero-waste">Zero Waste</a>
-              <a href="{{ site.baseurl }}/search">Search</a>
-              <a href="{{ site.baseurl }}/about">About</a>
+              <a href="{{ site.baseurl }}{{ site.data.snippets.home-page[page.lang].link }}"</a>
+              <a href="{{ site.baseurl }}{{ site.data.snippets.zerowaste-page[page.lang].link }}"</a>
+              <a href="{{ site.baseurl }}{{ site.data.snippets.search-page[page.lang].link }}"</a>
+              <a href="{{ site.baseurl }}{{ site.data.snippets.about-page[page.lang].link }}"</a>
             </nav>
           </header>
         </div>

@@ -1,0 +1,31 @@
+home-page:
+  en:
+    title: Home
+    link: /en/home
+  de:
+    title: Start
+    link: /de/start
+    
+zerowaste-page:
+  en:
+    title: Zero Waste
+    link: /en/zerowaste
+  de:
+    title: Zero Waste
+    link: /de/zerowaste
+    
+search-page:
+  en:
+    title: Search
+    link: /en/search
+  de:
+    title: Suche
+    link: /de/suche
+ 
+ about-page:
+  en:
+    title: About
+    link: /en/pages/about
+  de:
+    title: Ueber
+    link: /de/pages/ueber
