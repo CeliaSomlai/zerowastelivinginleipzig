@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Search
+permalink: /en/search/
 lang: en
 ref: search
 ---

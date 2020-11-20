@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Categories
+permalink: /de/categories/
 lang: en
 ref: categories
 ---
