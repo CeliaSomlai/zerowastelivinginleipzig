@@ -25,7 +25,7 @@ search-page:
 about-page:
   en:
     title: About
-    link: /en/pages/about
+    link: /en/about
   de:
     title: Ueber
-    link: /de/pages/ueber
+    link: /de/ueber
