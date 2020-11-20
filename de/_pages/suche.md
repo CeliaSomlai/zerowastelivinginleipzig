@@ -7,7 +7,7 @@ ref: search
 ---
 
 <div id="search-container">
-    <input type="text" id="search-input" placeholder="DESearch through the blog posts...">
+    <input type="text" id="search-input" placeholder="Durchsuche alle Blogbeitäge...">
     <ul id="results-container"></ul>
 </div>
 

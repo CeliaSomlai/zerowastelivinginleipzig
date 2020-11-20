@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ueber
+title: Über
 permalink: /de/ueber/
 lang: de
 ref: about
