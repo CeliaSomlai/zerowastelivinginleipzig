@@ -1,10 +1,10 @@
 home-page:
   en:
     title: Home
-    link: /en/home
+    link: /en/
   de:
     title: Start
-    link: /de/start
+    link: /de/
     
 zerowaste-page:
   en:
