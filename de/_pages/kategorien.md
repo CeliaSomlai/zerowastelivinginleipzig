@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /categories/
+permalink: /de/categories/
 title: Kategorien
 lang: de
 ref: categories

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Suche
-permalink: /search/
+permalink: /de/suche/
 lang: de
 ref: search
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ueber
-permalink: /about/
+permalink: /de/about/
 lang: de
 ref: about
 ---

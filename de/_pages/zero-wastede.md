@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Was ist Zero Waste
-permalink: /zero-waste/
+permalink: /de/zerowaste/
 lang: de
 ref: zerowaste
 ---
