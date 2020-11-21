@@ -5,7 +5,8 @@ permalink: /de/zerowaste/
 lang: de
 ref: zerowaste
 ---
-DE
+
+## Die deutsche Übersetzung kommt bald...
 ### Zero Waste Living
 
 The term Zero Waste started out as an industry term for manufacturing processes that resulted in no or minimum waste.

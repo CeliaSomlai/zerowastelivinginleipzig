@@ -5,7 +5,8 @@ permalink: /de/ueber/
 lang: de
 ref: about
 ---
-DE
+## Die deutsche Übersetzung kommt bald...
+
 ### What is Zero Waste Living in Leipzig?
 
 Zero Waste Living in Leipzig is a bilingual (EN/DE) community group for sharing local tips how to live a sustainable life and aiming for zero waste.
