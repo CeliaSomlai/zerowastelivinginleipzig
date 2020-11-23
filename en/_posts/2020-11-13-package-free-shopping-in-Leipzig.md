@@ -10,7 +10,7 @@ A package free shop is a perfect place to start your zero waste journey. But whe
 
 Hey hey!
 
-Zero waste/unpackaged/package free shops are magical places, where you can refill your own containers (ice cream tubs, jars, bread bags or whatever you have) and buy as much or as little of things as you want! They usually offer loose dry ingredients (flours, past, rices, lentils, baking ingredients and much more), liquid refills (oil, ketchup, soy sauce, vinegar), cleaning products (washing up liquid, laundry detergent), personal care products (shampoo, conditioner, soap) and fresh locally sourced, seasonal fruits and vegetables.
+Zero waste/unpackaged/package free shops are magical places, where you can refill your own containers (ice cream tubs, jars, bread bags or whatever you have) and buy as much or as little of things as you want! They usually offer loose dry ingredients (flours, pastas, rices, lentils, baking ingredients and much more), liquid refills (oil, ketchup, soy sauce, vinegar), cleaning products (washing up liquid, laundry detergent), personal care products (shampoo, conditioner, soap) and fresh locally sourced, seasonal fruits and vegetables.
 
 I believe we are really lucky in Leipzig as there are 4 (four!) amazing dedicated package free shops.
 
@@ -24,7 +24,7 @@ I believe we are really lucky in Leipzig as there are 4 (four!) amazing dedicate
 ### lieber lose
 [Lieberlose](https://www.lieberlose.de/) opened in 2019 in Weißenfelser Straße in Plagwitz. You can follow them on [Facebook](facebook.com/lieberlose) and [Instagram](www.instagram.com/lieberlose).
 
-I personally believe that all the four shop sell a full range of products, so I suggest that you check out ALL of them! Visit them regularly and give them your support!
+I personally believe that all the four shops sell a full range of products, so I suggest that you check out ALL of them! Visit them regularly and give them your support!
 
 I hope to edit this list, so please let me know if you know about other shops in Leipzig!
 
