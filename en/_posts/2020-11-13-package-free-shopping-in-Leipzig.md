@@ -26,7 +26,7 @@ I believe we are really lucky in Leipzig as there are 4 (four!) amazing dedicate
 
 I personally believe that all the four shops sell a full range of products, so I suggest that you check out ALL of them! Visit them regularly and give them your support!
 
-I hope to edit this list, so please let me know if you know about other shops in Leipzig!
+Please let me know if you know about any other shops in Leipzig!
 
 
 
