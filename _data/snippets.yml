@@ -29,3 +29,12 @@ about-page:
   de:
     title: Über
     link: /de/ueber
+ 
+ Language-page:
+  en:
+    title: Deutsch
+    link: /en/
+  de:
+    title: English
+    link: /de/  
+ 
