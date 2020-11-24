@@ -39,7 +39,7 @@ language-page:
     link: /en 
 
 kofi-lang:
-  en:
-    title: Kauf mir einen Kaffe!
   de:
-    title: Buy me a coffe!
+    title: Kauf mir 'en Kaffee!
+  en:
+    title: Buy me a coffee!
