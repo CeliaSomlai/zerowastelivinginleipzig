@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-Klick hier, wenn du diesen Inhalt auf <a href="{{ site.baseurl }}/de">Deutsch</a> lesen möchtest!
+<div class="language">
+{% include lang-selector.html %}
+</div>
 
 <div class="posts">
   {% for post in site.posts %}
