@@ -37,4 +37,9 @@ language-page:
   de:
     title: English
     link: /en 
- 
+
+kofi-lang:
+  en:
+    title: Kauf mir einen Kaffe!
+  de:
+    title: Buy me a coffe!
