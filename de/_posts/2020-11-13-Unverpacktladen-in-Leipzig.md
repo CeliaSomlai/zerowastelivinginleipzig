@@ -1,33 +1,39 @@
 ---
 layout: post
-title:  Unverpacktladen in Leipzig
-categories: [shopping,grocery]
+title:  Unverpacktes Einkaufen in Leipzig
+categories: [einkaufen, Lebensmittel]
 lang: de
 ref: blog20201113
 
 ---
-it will be the german verion here
-A package free shop is a perfect place to start your zero waste journey. But where to find one?! Let me tell you actually, four amazing package free shops are waiting for you to be discovered in Leipzig. Two in the West, one in the East and one in Südvorstadt! 
+Ein Unverpacktladen ist der perfekte Ort, um deine Zero Waste Journey zu beginnen. Aber wo kann man nur einen finden?! In Leipzig gibt es derzeit sogar ganze vier Unverpacktläden, die nur darauf warten, von Dir entdeckt zu werden. Zwei im Westen (Schleußig and Lindenau), einer im Osten (Reudnitz) und einer in der Südvorstadt!
 
 Hey hey!
 
-Zero waste/unpackaged/package free shops are magical places, where you can refill your own containers (ice cream tubs, jars, bread bags or whatever you have) and buy as much or as little of things as you want! They usually offer loose dry ingredients (flours, past, rices, lentils, baking ingredients and much more), liquid refills (oil, ketchup, soy sauce, vinegar), cleaning products (washing up liquid, laundry detergent), personal care products (shampoo, conditioner, soap) and fresh locally sourced, seasonal fruits and vegetables.
+Zero Waste / unverpackt / verpackungfreie Läden sind einfach magische Orte, an denen Du Deine eigenen Behälter (leere Eisboxen, wiederverwendete Gläser, extravagante Brotbeutel oder was auch immer Du gerade da hast) befüllen und eben so viel oder auch nur so wenig (!) kaufen kannst, wie du möchtest oder eben gerade brauchst! Diese Läden  bieten normalerweise eine große Auswahl an von
+- losen, trockene Zutaten (wie verschiedenen Sorten Mehl, Nudeln, Reis, Hülsenfrüchte, Backzutaten, ganze und gemahlene Gewürze und noch viel mehr), 
+- unverpackte Delikatessen (meist Süßigkeiten und Schokolade, aber auch oft Käse und Butter),
+- Flüssigkeiten zum Nachfüllungen (z.B. Öle, Ketchup, Sojasauce, Essig oder andere Würzsaucen), 
+- Reinigungsprodukte (denke an Spülmittel oder Waschmittel), 
+- Körperpflegeprodukte (wie Shampoo, Conditioner, Seife) 
+- Produkte in Pfand-Verpackungen (z.B.Pflanzenmilch und Milchprodukte, Tempeh, Wein) 
+- und natürlich frisches Obst und Gemüse aus der Region.
 
-I believe we are really lucky in Leipzig as there are 4 (four!) amazing dedicated package free shops.
+Ich glaube, wir haben wirklich Glück in Leipzig, da es 4 (vier!) tolle, Unverpacktläden gibt. Da jeder davon einzigartig ist und eine eigene Produktauswahl hat, lohnt es sich auf jeden Fall, allen vieren mal einen Besuch abzustatten. Somit verpasst Ihr kein Spezialangebot und findet bestimmt Eure Lieblingssnacks und -nudelformen (trofie sind einfach die besten, wenn Ihr mich fragt).
 
 ### Einfach Unverpackt
 
-[Einfach Unverpackt](https://www.einfach-unverpackt.de/) has two shops; one in Südvorstadt in Kochstraße that opened back in 2016 and the newer one which opened last year in Schleußig in Könneritzstraße. You can follow them on [Facebook](https://www.facebook.com/EinfachUnverpackt/) and [Instagram](https://www.instagram.com/einfachunverpackt/).
+[Einfach Unverpackt](https://www.einfach-unverpackt.de/)  hat zwei Läden: einen in der Kochstraße in der Südvorstadt, der bereits 2016 eröffnet wurde, und einen neueren, der 2019 in Schleußig in der Könneritzstraße eröffnet wurde. Du kannst Einfach Unverpackt auf [Facebook](https://www.facebook.com/EinfachUnverpackt/)
+und [Instagram](https://www.instagram.com/einfachunverpackt/) folgen.
 
 ### Locker und Lose
-[Locker und Lose](https://locker-lose.de/) is located in Reudnitz in Josaphinestraße just next to the Lene-Voigt-Park. You can follow them on [Facebook](https://www.facebook.com/lockerloseleipzig/) and [Instagram](https://www.instagram.com/lockerloseleipzig/).
+[Locker und Lose](https://locker-lose.de/)  befindet sich in Reudnitz in der Josephinenstraße direkt neben dem Lene-Voigt-Park. Du kannst Locker und Lose auf [Facebook](https://www.facebook.com/lockerloseleipzig/) und [Instagram](https://www.instagram.com/lockerloseleipzig/) folgen.
 
 ### lieber lose
-[Lieberlose](https://www.lieberlose.de/) opened in 2019 in Weißenfelser Straße in Plagwitz. You can follow them on [Facebook](facebook.com/lieberlose) and [Instagram](www.instagram.com/lieberlose).
+[Lieberlose](https://www.lieberlose.de/) wurde 2019 in der Weißenfelser Straße in Plagwitz eröffnet. Du kannst [Facebook](facebook.com/lieberlose) and [Instagram](www.instagram.com/lieberlose).
 
-I personally believe that all the four shop sell a full range of products, so I suggest that you check out ALL of them! Visit them regularly and give them your support!
-
-I hope to edit this list, so please let me know if you know about other shops in Leipzig!
+Ich persönlich glaube ja, dass alle vier Läden eine vollständige Produktpalette anbieten und lege Euch daher an Herz, dass Ihr einfach mal JEDEN Laden auscheckt! Besucht sie ruhig regelmäßig und unterstützt die Läden! Ich denke auch, dass Ihr überall auch jederzeit nach neuen Produkten, die noch nicht im Sortiment sind, fragen könnt und vielleicht gibt es die ja bald, wenn noch ein paar mehr Leute danach fragen.
+Bitte sagt mir natürlich auch Bescheid, wenn Ihr etwas von einem neuen Zero Waste Läden in Leipzig erfahrt, der hier noch nicht gelistet ist!
 
 
 
