@@ -6,9 +6,8 @@ lang: de
 ref: searching
 ---
 
-## Die deutsche Übersetzung kommt bald...
 
-Looking for something specific? Try the search below.
+Suchst du etwas bestimmt? Probier die Suche unten.
 
 {% include search.html %}
 
