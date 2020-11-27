@@ -5,29 +5,27 @@ permalink: /de/ueber/
 lang: de
 ref: about
 ---
-## Die deutsche Übersetzung kommt bald...
 
-### What is Zero Waste Living in Leipzig?
+### Was ist Zero Waste Living in Leipzig?
 
-Zero Waste Living in Leipzig is a bilingual (EN/DE) community group for sharing local tips how to live a sustainable life and aiming for zero waste.
-The idea is the strengthen the Zero Waste community in Leipzig by supporting each other on our journey to zero waste.
+Zero Waste Living in Leipzig ist eine zweisprachige (EN/DE) Community-Gruppe, in der wir lokale Tipps teilen um erfüllter, nachhaltiger und (möglichst) Zero Waste in Leipzig zu leben. Das Hauptziel ist es, die Leipziger Zero Waste Community zusammenzubringen und uns gegenseitig auf unserer Reise in Richtung "Zero" zu unterstützen, indem wir Tipps und Tricks teilen, Fähigkeiten und Erfahrungen teilen und für unsere Werte eintreten um unser Umfeld zum Umdenken anzuregen.
 
-Zero Waste Living in Leipzig started as a Meetup group in June 2020 when I (Celia) moved to Leipzig.
-[Here](https://www.meetup.com/Zero-Waste-Leipzig/) you can join our Meetup group and see the upcoming events.
-There is also a [closed Facebook group](https://www.facebook.com/groups/280043056684330) where we can to talk to each other online and share tips and infos.
+Zero Waste Living in Leipzig begann im Sommer 2020 als Meetup-Gruppe, als ich (Celia) nach Leipzig zog und anfing nach Gleichgesinnten zu suchen.
+[Auf unserer Meetup-Seite](https://www.meetup.com/Zero-Waste-Leipzig/) kannst du unserer Meetup-Gruppe beitreten und alle zukünftigen Veranstaltungen sehen.
+Wir haben auch eine [Facebook-Gruppe] (https://www.facebook.com/groups/280043056684330), in der die Community-Mitglieder online miteinander sprechen und Tipps und Informationen austauschen oder um Hilfe oder Rat fragen können.
 
-However, I found that information should be available also outside of social media so I created this website where I will try to collect all the practical information I gathered since I moved to Leipzig.
+Schon nach kurzer Zeit allerding, stellte sich heraus, dass Informationen auch außerhalb der Meetings und Social-Media-Plattformen verfügbar sein sollten. Deshalb habe ich diese Website erstellt, auf der ich versuchen werde, alle praktischen Informationen zum Zero Waste Living zu sammeln, die wir als Community gesammelt haben.
 
-### Why is it in only English?
+### Warum in English?
 
-When I arrived to Leipzig (actually even before) I was looking for information on sustainable low waste living in Leipzig, possible in English as I am not a native speaker.
-After arriving and meeting people, I realised that actually there are many English speaking Expats in Leipzig who would like to live a more sustainable life but lacking the right information. And trust me, it is not like we do not want to integrate, most of us working hard to learn German and trying to find ourselves in the new city.
-The aim is to have this website bilingual and I am working on the technical parts!
+Als ich nach Leipzig zog (eigentlich sogar schon vorher), suchte ich nach (hauptsächlich englischsprachigen) Informationen über nachhaltiges, Zero Waste Leben in Leipzig - leider aber ohne großen Erfolg.
+Nachdem ich in der Stadt angekommen war, und anfing mit anderen Expats zu reden, wurde mir eigentlich sehr schnell klar, dass es in Leipzig zwar viele Resourcen und Initiativen gibt, um nachhaltiger zu leben, aber eben tatsächlich eine Art Guide / Roadmap für Neuankömmlinge (und natürlich auch Alteingesessene) fehlt, der all die großartige Infrastruktur, Unverpacktläden, SoLaWi (**So**lidarische **La**nd**wi**rtschaft) Gruppen, Reparaturcafés und so weiter auflistet. Viele Menschen sind wirklich offen für ein nachhaltigeres Leben, aber machmal fehlt eben der kleine Anstoß, die Sprachkenntnisse oder das Selbstvertrauen um den nächsten Schritt zu machen. Ich hoffe, genau da kann Zero Waste Living in Leipzig als Community ansetzen.
 
 
-### Who is behind Zero Waste Living in Leipzig?
+### Wer steckt hinter Zero Waste Living in Leipzig?
 
-I am Celia, originally from Budapest but I have been living all around Europe in the past 10 years. I am an environmental researcher and zero waste living advocate. I like to share with people all the amazing sustainable options available to them. You can follow my [Zero Waste Adventures here](https://www.instagram.com/zerowaste.adventures/).
+Ich bin Celia, ursprünglich aus Budapest in Ungarn, aber ich habe in den letzten 10 Jahren in ganz Europa gelebt, einschließlich Italien, den Niederlanden, Irland und Deutschland. Ich bin Umweltforscher von Beruf und Zero Waste Advocat aus Überzeugung. Ich bin davon überzeugt, dass Informationen teilen und vernetzen uns weiterbringt um all die coolen, nachhaltigen Optionen zu finden und gemeinsam den Impact zu erreichen, den wir in unseren Communities brauchen. Du kannst meine [Zero Waste Adventures auf Instagram](https://www.instagram.com/zerowaste.adventures/) folgen. Ich schreibe auch weitere Beiträge zu Zero Waste Living im Allgemeinen - also nicht mit Bezug auf Leipzig - in meinem privaten [Blog] (www.celia.somlai.com).
 
+Bitte kontaktier mich, wenn du einen Beitrag zur Website leisten möchtest, indem du Blog-Beiträge schreibst oder diese auch in andere Sprachen übersetzten kannst.
 
-Also please do not hesitate to contact me if you want to contribute to the website by writing blogs or translating them into other languages as well.
+Ich mache das alles aus Spaß an der Freude und Aktivismus. Wenn du das Gefühl hast, mich unterstützen zu wollen, kannst du mir ein oder zwei Kaffees auf Kofi kaufen - klick einfach auf den blauen Button under jedem Beitrag. Jede kleine Unterstützung hilft und wird sehr geschätzt, denn die Internetseite online zu halten und den Meetup-Account zu betreiben kostet nun leider mal wirklich bares Geld.
