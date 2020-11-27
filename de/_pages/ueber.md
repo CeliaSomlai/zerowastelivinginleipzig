@@ -12,7 +12,7 @@ Zero Waste Living in Leipzig ist eine zweisprachige (EN/DE) Community-Gruppe, in
 
 Zero Waste Living in Leipzig begann im Sommer 2020 als Meetup-Gruppe, als ich (Celia) nach Leipzig zog und anfing nach Gleichgesinnten zu suchen.
 [Auf unserer Meetup-Seite](https://www.meetup.com/Zero-Waste-Leipzig/) kannst du unserer Meetup-Gruppe beitreten und alle zukünftigen Veranstaltungen sehen.
-Wir haben auch eine [Facebook-Gruppe] (https://www.facebook.com/groups/280043056684330), in der die Community-Mitglieder online miteinander sprechen und Tipps und Informationen austauschen oder um Hilfe oder Rat fragen können.
+Wir haben auch eine [Facebook-Gruppe](https://www.facebook.com/groups/280043056684330), in der die Community-Mitglieder online miteinander sprechen und Tipps und Informationen austauschen oder um Hilfe oder Rat fragen können.
 
 Schon nach kurzer Zeit allerding, stellte sich heraus, dass Informationen auch außerhalb der Meetings und Social-Media-Plattformen verfügbar sein sollten. Deshalb habe ich diese Website erstellt, auf der ich versuchen werde, alle praktischen Informationen zum Zero Waste Living zu sammeln, die wir als Community gesammelt haben.
 
@@ -24,7 +24,7 @@ Nachdem ich in der Stadt angekommen war, und anfing mit anderen Expats zu reden,
 
 ### Wer steckt hinter Zero Waste Living in Leipzig?
 
-Ich bin Celia, ursprünglich aus Budapest in Ungarn, aber ich habe in den letzten 10 Jahren in ganz Europa gelebt, einschließlich Italien, den Niederlanden, Irland und Deutschland. Ich bin Umweltforscher von Beruf und Zero Waste Advocat aus Überzeugung. Ich bin davon überzeugt, dass Informationen teilen und vernetzen uns weiterbringt um all die coolen, nachhaltigen Optionen zu finden und gemeinsam den Impact zu erreichen, den wir in unseren Communities brauchen. Du kannst meine [Zero Waste Adventures auf Instagram](https://www.instagram.com/zerowaste.adventures/) folgen. Ich schreibe auch weitere Beiträge zu Zero Waste Living im Allgemeinen - also nicht mit Bezug auf Leipzig - in meinem privaten [Blog] (www.celia.somlai.com).
+Ich bin Celia, ursprünglich aus Budapest in Ungarn, aber ich habe in den letzten 10 Jahren in ganz Europa gelebt, einschließlich Italien, den Niederlanden, Irland und Deutschland. Ich bin Umweltforscher von Beruf und Zero Waste Advocat aus Überzeugung. Ich bin davon überzeugt, dass Informationen teilen und vernetzen uns weiterbringt um all die coolen, nachhaltigen Optionen zu finden und gemeinsam den Impact zu erreichen, den wir in unseren Communities brauchen. Du kannst meine [Zero Waste Adventures auf Instagram](https://www.instagram.com/zerowaste.adventures/) folgen. Ich schreibe auch weitere Beiträge zu Zero Waste Living im Allgemeinen - also nicht mit Bezug auf Leipzig - in meinem privaten [Blog](www.celiasomlai.com).
 
 Bitte kontaktier mich, wenn du einen Beitrag zur Website leisten möchtest, indem du Blog-Beiträge schreibst oder diese auch in andere Sprachen übersetzten kannst.
 
