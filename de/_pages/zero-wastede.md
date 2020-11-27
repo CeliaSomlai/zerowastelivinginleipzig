@@ -6,27 +6,26 @@ lang: de
 ref: zerowaste
 ---
 
-## Die deutsche Übersetzung kommt bald...
 ### Zero Waste Living
 
-The term Zero Waste started out as an industry term for manufacturing processes that resulted in no or minimum waste.
-It can be achieved by feeding waste back into the manufacturing process in the form of raw material or fuel.
-Manufacturing that operates “zero waste” is central to the concept of a circular economy — an economy based on reuse and recycling of waste to generate new products.
+Der Begriff Zero Waste hat seinen Ursprung als Industriebegriff für Herstellungsprozesse, die zu keinem oder minimalem Müll führten.
+Dies kann erreicht werden, indem Abfälle in Form von Rohmaterial oder Kraftstoff in den Herstellungsprozess zurückgeführt werden.
+Die Erreichung von Zero Waste ist von zentraler Bedeutung für die Umsetzung des Konzepts der Kreislaufwirtschaft - einer Wirtschaft, die auf der Wiederverwendung und dem Recycling von Abfällen zur Erzeugung neuer Produkte basiert.
 
-Over 10 years ago the term Zero Waste was adopted by blogger Bea Johnson in America to describe her efforts to reduce her family’s waste.
-She blogs about her efforts at [zerowastehome.com](https://zerowastehome.com/).
-Nowadays “Zero Waste” is typically used to describe a way of life or thinking that has waste minimisation at its heart.
+Vor über 10 Jahren wurde der Begriff Zero Waste von der französischen Bloggerin Bea Johnson in den USA übernommen, um ihre Bemühungen zu beschreiben, den Abfall ihrer Familie zu reduzieren.
+Sie bloggt über ihre Herangehensweise und Erfahrungen unter [zerowastehome.com] (https://zerowastehome.com/).
+Heutzutage wird „Zero Waste“ normalerweise verwendet, um eine Lebensweise oder ein Denken zu beschreiben, bei dem die Abfallminimierung einer Person oder eines Haushalts im Mittelpunkt steht.
 
-Although the term “Zero” is used in “Zero Waste”, it is impossible for an individual to produce no waste at all. For this reason “Low-waste lifestyle” or “Low-impact lifestyle” are more accurate descriptions of a what is commonly known as the Zero Waste way of living.
+Obwohl der Begriff „Zero“ in „Zero Waste“ verwendet wird, ist es für eine Person unmöglich, überhaupt keinen Abfall (d.h. Null Abfall) zu produzieren. Aus diesem Grund sind „Abfallarmer Lebensstil“ (low-waste lifestyle) oder „Lebensstil mit geringen Umweltauswirkungen“ (low-impact lifestyle) genauere Beschreibungen der allgemein als „Zero Waste“ bezeichneten Lebensweise. Aber, der Begriff Zero Waste ist nunmal leider einprägsamer, muss ich zugeben.
 
-### What are the 5 R’s of zero waste?
+### Was sind die 5 Rs von Zero Waste?
 
-Refuse what you do not need - even if it is free!
+Refuse - Ablehnen, was du nicht brauchst - auch wenn es kostenlos ist!
 
-Reduce what you cannot refuse - reduce your consumption foremost!
+Reduce - Reduziere, was du nicht ablehnen kannst - vor allem reduziere deinen Konsum!
 
-Reuse what you have already!
+Reuse -  Verwende wieder, was du bereits hast!
 
-Recycle what you cannot refuse, reduce, reuse or repair!
+Recycle - Recycel, was du nicht ablehnen, reduzieren, wiederverwenden oder reparieren kannst!
 
-Rot the rest - compost everything you can by giving back valuable resources to Mother Earth (-:
+Rot - kompostier alles, was du kannst, damit du Mutter Erde wertvolle Ressourcen zurückgibst (-:
