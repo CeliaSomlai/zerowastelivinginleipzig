@@ -6,7 +6,7 @@ lang: de
 ref: about
 ---
 
-### WWas ist Zero Waste Living in Leipzig?
+### Was ist Zero Waste Living in Leipzig?
 
 Zero Waste Living in Leipzig ist eine zweisprachige (EN/DE) Community-Gruppe, in der wir lokale Tipps teilen um erfüllter, nachhaltiger und (möglichst) Zero Waste in Leipzig zu leben. Das Hauptziel ist es, die Leipziger Zero Waste Community zusammenzubringen und uns gegenseitig auf unserer Reise in Richtung "Zero" zu unterstützen, indem wir Tipps und Tricks teilen, Fähigkeiten und Erfahrungen teilen und für unsere Werte eintreten um unser Umfeld zum Umdenken anzuregen.
 
