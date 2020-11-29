@@ -5,10 +5,6 @@ ref: index
 
 ---
 
-<div class="language">
-{% include lang-selector.html %}
-</div>
-
 <div class="posts">
   {% for post in site.posts %}
 	{% if post.lang == page.lang %}
