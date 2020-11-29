@@ -12,7 +12,7 @@ Hey hey!
 
 Überall im Internet gibt es viele wirklich nützliche allgemeine Ressourcen zu Zero Waste Living. Auf dieser Website möchte ich mich daher auf lokale Tipps konzentrieren, wie z.B. eine Zusammenstellung aller lokalen Produzenten, Geschäfte, Dienstleister und Produkte, die Euch helfen werden im Alltag weniger Müll zu produzieren. In diesem Blogbeitrag sammle ich alle nachhaltig und lokal produzierten Produkte. Diese Liste wird ständig aktualisiert und für  Eure Mithilfe dabei bin ich echt dankbar. Bitte kontaktiert mich mit neuen Vorschlägen, falls Ihr etwas oder jemanden kennt, den ich hier noch nicht in der Liste habe.
 
-Und, damit das klar ist: Ich bin mit keiner der Marken und Produkte, die hier genannt werden geschäftlich verbunden und bekomme auch keinerlei Kompensation dafür. Ich finde sie einfach cool, und freue mich, dass sie sich auch um unsere Mutter Erde kümmern. Also, probiert sie aus und bildet Euch eure eigene Meinung
+Und, damit das klar ist: Ich bin mit keiner der Marken und Produkte, die hier genannt werden geschäftlich verbunden und bekomme auch keinerlei Kompensation dafür. Ich finde sie einfach cool, und freue mich, dass sie sich auch um unsere Mutter Erde kümmern. Also, probiert sie aus und bildet Euch eure eigene Meinung.
 
 ### Tempeh
 
@@ -44,7 +44,7 @@ Ich konnte leider deren Website oder soziale Medien nicht finden, aber ich habe 
 
 ### Jams
 
-Rosenberg](https://rosenberg-delikatessen.de/) hat verschiedene Marmeladensorten mit lokal produzierten Früchten. Ihre Gläser haben zwar keinen Pfand, aber die [Unverpacktläden](/Unverpacktladen-in-Leipzig) sammeln sie und schicken sie zum Nachfüllen zurück.
+[Rosenberg](https://rosenberg-delikatessen.de/) hat verschiedene Marmeladensorten mit lokal produzierten Früchten. Ihre Gläser haben zwar keinen Pfand, aber die [Unverpacktläden](/Unverpacktladen-in-Leipzig) sammeln sie und schicken sie zum Nachfüllen zurück.
 
 ### Milk
 
