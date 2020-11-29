@@ -30,7 +30,7 @@ und [Instagram](https://www.instagram.com/einfachunverpackt/) folgen.
 [Locker und Lose](https://locker-lose.de/)  befindet sich in Reudnitz in der Josephinenstraße direkt neben dem Lene-Voigt-Park. Du kannst Locker und Lose auf [Facebook](https://www.facebook.com/lockerloseleipzig/) und [Instagram](https://www.instagram.com/lockerloseleipzig/) folgen.
 
 ### lieber lose
-[Lieberlose](https://www.lieberlose.de/) wurde 2019 in der Weißenfelser Straße in Plagwitz eröffnet. Du kannst [Facebook](facebook.com/lieberlose) and [Instagram](www.instagram.com/lieberlose).
+[Lieberlose](https://www.lieberlose.de/) wurde 2019 in der Weißenfelser Straße in Plagwitz eröffnet. Du kannst [Facebook](https://www.facebook.com/lieberlose) und [Instagram](https://www.instagram.com/lieberlose/).
 
 Ich persönlich glaube ja, dass alle vier Läden eine vollständige Produktpalette anbieten und lege Euch daher an Herz, dass Ihr einfach mal JEDEN Laden auscheckt! Besucht sie ruhig regelmäßig und unterstützt die Läden! Ich denke auch, dass Ihr überall auch jederzeit nach neuen Produkten, die noch nicht im Sortiment sind, fragen könnt und vielleicht gibt es die ja bald, wenn noch ein paar mehr Leute danach fragen.
 Bitte sagt mir natürlich auch Bescheid, wenn Ihr etwas von einem neuen Zero Waste Läden in Leipzig erfahrt, der hier noch nicht gelistet ist!

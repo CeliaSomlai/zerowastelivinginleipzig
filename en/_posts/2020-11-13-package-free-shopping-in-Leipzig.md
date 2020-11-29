@@ -29,7 +29,7 @@ I believe we are really lucky in Leipzig as there are 4 (four!) amazing dedicate
 [Locker und Lose](https://locker-lose.de/) is located in Reudnitz in Josephinestraße just next to the Lene-Voigt-Park. You can follow Locker und Lose on [Facebook](https://www.facebook.com/lockerloseleipzig/) and [Instagram](https://www.instagram.com/lockerloseleipzig/).
 
 ### lieber lose
-[Lieberlose](https://www.lieberlose.de/) opened in 2019 in Weißenfelser Straße in Plagwitz. You can follow them on [Facebook](facebook.com/lieberlose) and [Instagram](www.instagram.com/lieberlose).
+[Lieberlose](https://www.lieberlose.de/) opened in 2019 in Weißenfelser Straße in Plagwitz. You can follow them on [Facebook](https://www.facebook.com/lieberlose) and [Instagram](https://www.instagram.com/lieberlose/).
 
 I personally believe that all the four shops sell a full range of products, so I suggest that you check out ALL of them! Visit them regularly and give them your support and feedback! All of them will be happy to try sourcing new products on popular demand. And of course, please do let me know if you know of any other Zero Waste shops in Leipzig that are not listed here!
 
