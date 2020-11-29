@@ -100,7 +100,6 @@ defaults:
       path: "en"
     values:
       lang: "en"
-      permalink: "/en/:title"
   - scope:
       path: "de"
     values:
