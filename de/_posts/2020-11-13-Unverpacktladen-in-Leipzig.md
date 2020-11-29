@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Unverpacktes Einkaufen in Leipzig
-categories: [einkaufen, Lebensmittel]
+tags: [einkaufen, Lebensmittel]
 lang: de
 ref: blog20201113
 

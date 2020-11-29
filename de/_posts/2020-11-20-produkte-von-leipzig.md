@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Leipziger Produkte
-categories: [einkaufen, Lebensmittel]
+tags: [einkaufen, Lebensmittel]
 lang: de
 ref: blog20201120
 

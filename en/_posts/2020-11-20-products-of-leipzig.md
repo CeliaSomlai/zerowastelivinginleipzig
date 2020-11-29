@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Leipzig products
-categories: [shopping,local]
+tags: [shopping,local]
 lang: en
 ref: blog20201120
 
