@@ -18,12 +18,12 @@ Und, damit das klar ist: Ich bin mit keiner der Marken und Produkte, die hier ge
 
 [Umani Kulturgut](https://www.umanikulturgut.de/) has two varieties of tempeh - soybeans and lupin beans - handcrafted in Leipzig.
 hat zwei in Leipzig handgemachte Tempeh-Sorten - jeweils aus Sojabohnen und Lupinenbohnen.
-Alle Zutaten stammen von Bio-Bauernhöfen in Süddeutschland. Das Tempeh wird in Pfand-Glasbehältern in den meisten [Unverpacktläden](/Unverpacktladen-in-Leipzig) verkauft. Wenn Du die Gläser zurück bringst, dann sammelt Umani Kulturgut sie ein und füllt sie wieder mit leckerem Tempeh.
+Alle Zutaten stammen von Bio-Bauernhöfen in Süddeutschland. Das Tempeh wird in Pfand-Glasbehältern in den meisten [Unverpacktläden](/de/Unverpacktladen-in-Leipzig) verkauft. Wenn Du die Gläser zurück bringst, dann sammelt Umani Kulturgut sie ein und füllt sie wieder mit leckerem Tempeh.
 
 
 ### Raps- und Leinöl
 
-Du findest lokal produziertes [Leinsamen](https://leipspeis.de/portfolio_page/leinoel/) und [Raps](https://leipspeis.de/portfolio_page/rapsoel/) Öle in Pfandflaschen oder zum Nachfüllen in den [Unverpacktläden in Leipzig](/Unverpacktladen-in-Leipzig). Hergestellt werden sie von [Leipspeis](https://leipspeis.de/produkte/) in Leipzig. Was ich an Leipspeis am coolsten finde ist, dass man ihre Mühle jeden ersten Freitag im Monat, dem [Zapftag (Nachfülltag)](https://leipspeis.de/event/offene-oelmuehle-zapftag-27/), besuchen kann, und dort direkt seine eigenen Flaschen direkt in der Mühle nachfüllen lassen kann.
+Du findest lokal produziertes [Leinsamen](https://leipspeis.de/portfolio_page/leinoel/) und [Raps](https://leipspeis.de/portfolio_page/rapsoel/) Öle in Pfandflaschen oder zum Nachfüllen in den [Unverpacktläden in Leipzig](/de/Unverpacktladen-in-Leipzig). Hergestellt werden sie von [Leipspeis](https://leipspeis.de/produkte/) in Leipzig. Was ich an Leipspeis am coolsten finde ist, dass man ihre Mühle jeden ersten Freitag im Monat, dem [Zapftag (Nachfülltag)](https://leipspeis.de/event/offene-oelmuehle-zapftag-27/), besuchen kann, und dort direkt seine eigenen Flaschen direkt in der Mühle nachfüllen lassen kann.
 
 ### Salz
 
@@ -40,11 +40,11 @@ Leckere Fruchtschorlen aus Brombeeren, Stachelbeeren oder Rhabarber direkt aus L
 
 ### Seife
 
-Ich konnte leider deren Website oder soziale Medien nicht finden, aber ich habe diese Seifen mehrmals in den [Unverpacktläden](/Unverpacktladen-in-Leipzig) gekauft. Es scheint eine Zusammenarbeit zu sein, bei der die Öle von [Leipspeis](https://leipspeis.de) und [Beti Lue soapmaker]( https://salbenmanufaktur.de/) Seifenmacher verwendet werden.
+Ich konnte leider deren Website oder soziale Medien nicht finden, aber ich habe diese Seifen mehrmals in den [Unverpacktläden](/de/Unverpacktladen-in-Leipzig) gekauft. Es scheint eine Zusammenarbeit zu sein, bei der die Öle von [Leipspeis](https://leipspeis.de) und [Beti Lue soapmaker]( https://salbenmanufaktur.de/) Seifenmacher verwendet werden.
 
 ### Jams
 
-[Rosenberg](https://rosenberg-delikatessen.de/) hat verschiedene Marmeladensorten mit lokal produzierten Früchten. Ihre Gläser haben zwar keinen Pfand, aber die [Unverpacktläden](/Unverpacktladen-in-Leipzig) sammeln sie und schicken sie zum Nachfüllen zurück.
+[Rosenberg](https://rosenberg-delikatessen.de/) hat verschiedene Marmeladensorten mit lokal produzierten Früchten. Ihre Gläser haben zwar keinen Pfand, aber die [Unverpacktläden](/de/Unverpacktladen-in-Leipzig) sammeln sie und schicken sie zum Nachfüllen zurück.
 
 ### Milk
 
