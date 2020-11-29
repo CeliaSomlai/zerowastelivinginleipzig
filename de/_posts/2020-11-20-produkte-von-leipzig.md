@@ -3,7 +3,7 @@ layout: post
 title:  Leipziger Produkte
 categories: [einkaufen, Lebensmittel]
 lang: de
-ref: blog20201113
+ref: blog20201120
 
 ---
 Schaut Euch mal diese Liste mit lokal und nachhaltig produzierten Produkten aus Leipzig und der Region an.Tempeh, Honig, Seife und Salz, um nur einige zu nennen!
