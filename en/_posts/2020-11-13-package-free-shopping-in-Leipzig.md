@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  Package free shopping in Leipzig
-categories: [shopping,grocery]
+tags: [shopping,grocery]
 lang: en
 ref: blog20201113
+
 
 ---
 A package free shop is a perfect place to start your Zero Waste journey. But where to find one?! Actually, there are currently four amazing package free shops in Leipzig waiting to be discovered by you. Two in the West (Schleußig and Lindenau), one in the East (Reudnitz) and one in the South (Südvorstadt)!
