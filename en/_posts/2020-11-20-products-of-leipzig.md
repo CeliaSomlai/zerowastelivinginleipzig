@@ -18,7 +18,7 @@ And a quick disclaimer: I am not affiliated with any of the brands, products I m
 ### Tempeh
 
 [Umani Kulturgut](https://www.umanikulturgut.de/) has two varieties of tempeh - soybeans and lupin beans - handcrafted in Leipzig.
-All ingredients are from ecological farms in South Germany. The tempeh is sold in deposit glass containers in most [Zero Waste shops](zerowastelivinginleipzig.de/package-free-shopping-in-Leipzig/), so you can take them back and Umani Kulturgut will collect and refill them again with delicious tempeh.
+All ingredients are from ecological farms in South Germany. The tempeh is sold in deposit glass containers in most [Zero Waste shops](/package-free-shopping-in-Leipzig), so you can take them back and Umani Kulturgut will collect and refill them again with delicious tempeh.
 
 ### Rapeseed and linseed oil
 
