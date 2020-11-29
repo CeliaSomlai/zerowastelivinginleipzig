@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: page
+lang: de
+ref: index
+
 ---
 
 <div class="language">

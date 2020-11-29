@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: page
+lang: en
+ref: index
+
 ---
-<div class="language">
-{% include lang-selector.html %}
-</div>
 
 <div class="posts">
   {% for post in site.posts %}
