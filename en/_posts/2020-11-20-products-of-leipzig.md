@@ -22,7 +22,7 @@ All ingredients are from ecological farms in South Germany. The tempeh is sold i
 
 ### Rapeseed and linseed oil
 
-You can find locally produced [linseed](https://leipspeis.de/portfolio_page/leinoel/) and [rapeseed]( https://leipspeis.de/portfolio_page/rapsoel/) oils in deposit bottles or as refills in the [Zero Waste shops in Leipzig](zerowastelivinginleipzig.de/package-free-shopping-in-Leipzig/). They are from [Leipspeis](https://leipspeis.de/produkte/). What I found the most amazing about them is that you can actually visit their mill every first Friday of the month for a [Zapftag (refill day)](https://leipspeis.de/event/offene-oelmuehle-zapftag-27/) where you can refill your own bottles at the mill directly. 
+You can find locally produced [linseed](https://leipspeis.de/portfolio_page/leinoel/) and [rapeseed]( https://leipspeis.de/portfolio_page/rapsoel/) oils in deposit bottles or as refills in the [Zero Waste shops in Leipzig](/package-free-shopping-in-Leipzig). They are from [Leipspeis](https://leipspeis.de/produkte/). What I found the most amazing about them is that you can actually visit their mill every first Friday of the month for a [Zapftag (refill day)](https://leipspeis.de/event/offene-oelmuehle-zapftag-27/) where you can refill your own bottles at the mill directly. 
 
 ### Salt
 
@@ -39,11 +39,11 @@ Cider (or as the Germans say: [Zider](https://www.egenberger-lebensmittel.de/uns
 
 ### Soaps
 
-I could not find their website or social media, but I bought these soaps multiple times in the [Zero Waste shops](zerowastelivinginleipzig.de/package-free-shopping-in-Leipzig/). It seems to be a collaboration, using the oils from [Leipspeis](https://leipspeis.de) and [Beti Lue soapmaker]( https://salbenmanufaktur.de/).
+I could not find their website or social media, but I bought these soaps multiple times in the [Zero Waste shops](/package-free-shopping-in-Leipzig). It seems to be a collaboration, using the oils from [Leipspeis](https://leipspeis.de) and [Beti Lue soapmaker]( https://salbenmanufaktur.de/).
 
 ### Jams
 
-[Rosenberg](https://rosenberg-delikatessen.de/) has different varieties of jam using locally produced fruits. Their glasses have no deposit but the [Zero Waste shops](zerowastelivinginleipzig.de/package-free-shopping-in-Leipzig/) collect them and send them back for refill.
+[Rosenberg](https://rosenberg-delikatessen.de/) has different varieties of jam using locally produced fruits. Their glasses have no deposit but the [Zero Waste shops](/package-free-shopping-in-Leipzig) collect them and send them back for refill.
 
 ### Milk
 
