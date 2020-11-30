@@ -20,10 +20,6 @@ These bottles and cans are only used once and are recycled or downcycled into ot
 Ecologically they have a bigger impact and are less sustainable than multi-use bottles.
 Note, that cans are always single use.
 
-### Rapeseed and linseed oil
-
-You can find locally produced [linseed](https://leipspeis.de/portfolio_page/leinoel/) and [rapeseed](https://leipspeis.de/portfolio_page/rapsoel/) oils in deposit bottles or as refills in the [Zero Waste shops in Leipzig](/en/package-free-shopping-in-Leipzig). They are from [Leipspeis](https://leipspeis.de/produkte/). What I found the most amazing about them is that you can actually visit their mill every first Friday of the month for a [Zapftag (refill day)](https://leipspeis.de/event/offene-oelmuehle-zapftag-27/) where you can refill your own bottles at the mill directly.
-
 The single-use deposit plastic bottles typically are thinner plastic (PET) bottles and they have the Einweg-Flaschen symbol on them.
 
 The deposit for these bottles and cans is always 25 cents each and you can identify them by the logo and words such as ‘Einwegflasche’ or ‘Einweg’.
