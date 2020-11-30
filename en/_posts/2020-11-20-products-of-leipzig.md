@@ -31,7 +31,7 @@ Locally produced following old traditions by the [Halloren guild](https://fotoei
 
 ### Spritzers
 
-[Lipz-Schorlen](https://www.egenberger-lebensmittel.de/unser-sortiment/), fruit soft drinks or better to say fruit spritzers produced in Leipzig from blackberry, gooseberry and rhubarb. Bio certified, in glass bottles. ~~As far as I know without refilling them.~~  Correction, they are sold in [Mehrweg bottles](https://zerowastelivinginleipzig.de/en/einweg-vs-mehrweg/)
+[Lipz-Schorlen](https://www.egenberger-lebensmittel.de/unser-sortiment/), fruit soft drinks or better to say fruit spritzers produced in Leipzig from blackberry, gooseberry and rhubarb. Bio certified, in glass bottles. ~~As far as I know without refilling them.~~  Correction, they are sold in [Mehrweg bottles](https://zerowastelivinginleipzig.de/en/einweg-vs-mehrweg/).
 
 ### Cider
 
