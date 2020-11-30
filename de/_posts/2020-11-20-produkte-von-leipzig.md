@@ -32,7 +32,7 @@ Es wird vor Ort nach alten Traditionen durch die [Halloren Salzwirker](https://w
 
 ### Schorle
 
-Leckere Fruchtschorlen aus Brombeeren, Stachelbeeren oder Rhabarber direkt aus Leipzig von [Lipz-Schorlen](https://www.egenberger-lebensmittel.de/unser-sortiment/). Bio-zertifiziert und in Glasflaschen - allerdings, soweit ich weis, ohne Nachfüll-Option.
+Leckere Fruchtschorlen aus Brombeeren, Stachelbeeren oder Rhabarber direkt aus Leipzig von [Lipz-Schorlen](https://www.egenberger-lebensmittel.de/unser-sortiment/). Bio-zertifiziert und in Glasflaschen - ~~allerdings, soweit ich weis, ohne Nachfüll-Option~~ Korrektur - wird in Mehrwegflaschen verkauft.
 
 ### Cider
 
