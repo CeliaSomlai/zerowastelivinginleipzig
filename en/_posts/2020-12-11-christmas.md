@@ -6,7 +6,7 @@ lang: en
 ref: blog20201211
 ---
 
-Every year the same old question: What to do at Christmas. Depending on your cultural and family background, this one might be a hard one to answer. On one side, Christmas stands for contemplation, calmness and traditions - on the other it often also stands for stress, consumerism and indulgence.
+Every year the same old question: What to do at Christmas? Depending on your cultural and family background, this one might be a hard one to answer. On one side, Christmas stands for contemplation, calmness and traditions - on the other it often also stands for stress, consumerism and indulgence.
 
 The simplest and most Zero Waste solution was suggested by one of our Zero Waste Living in Leipzig community members - Henna just does nothing for Christmas. No tree, no deco, no gifts, nothing. Even though I find the thought kind of freeing, of course, this might not be the most suitable solution for everyone! So let’s have a look on how you can reduce your wastefulness during the winter holidays. 
 
@@ -35,7 +35,7 @@ For example hang up the Christmas cards you receive and use these as bunting-sty
 
 <strong>Christmas Tree</strong> - you can easily craft a “tree” without sacrificing a living tree using natural materials like sticks and twines or pine cones. 
 If you want to have a real tree, you could consider having one that comes in a plant pot and can be planted outside after Christmas or reused again next Christmas. From what I hear, this strategy only has a limited success rate, as many potted trees aren’t likely to survive the year until the next festival season.But it’s definitely worth a try, I’d say.
-If you do actually and up with a dead tree, here is the [link}(https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/weihnachten/ablagestellen-fuer-weihnachtsbaeume/) where you can leave your Christmas tree for the City cleaning to pick it up - I will try to figure out what they actually do with the trees. If I get an answer from them I will update it here. 
+If you do actually and up with a dead tree, here is the [link](https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/weihnachten/ablagestellen-fuer-weihnachtsbaeume/) where you can leave your Christmas tree for the City cleaning to pick it up - I will try to figure out what they actually do with the trees. If I get an answer from them I will update it here. 
 
 
 Also, if you have a fake plastic tree - use that one. It was already made, you already have it, so you should use it as long as possible. It does not make sense to throw it out just because it is made of plastic. Just don’t buy a new one next time!
@@ -56,13 +56,6 @@ Some ideas for self-made vouchers - special lockdown edition:
 - Treasure hunt through the city, great fun with kids!
 - Family craft beer tasting. Again I am not being paid or affiliated or anything, I share all the eco initiatives that I come across. Rettergut teamed up with the Brewdog and came up with a New England IPA - [PLANET A - RETTERBIER](https://www.doerrwerk.de/rettergut/243/planet-a-retterbier) where they use not-so-perfect peaches and unsold bread to brew the beer.
 
-
-I really like to give vouchers for experiences. It can be something self created or commercialized.
-
-Some ideas for self-made vouchers - special lockdown edition:
-Nature walk with nice hot tea or mulled wine in a thermos (just be aware that consuming alcohol in public will not be legal during the Christmas lockdown)
-Treasure hunt through the city, great fun with kids!
-Family craft beer tasting. Again I am not being paid or affiliated or anything, I share all the eco initiatives that I come across. Rettergut teamed up with the Brewdog and came up with a New England IPA where they use not-so-perfect peaches and unsold bread to brew the beer.
 
 Some ideas for commercial vouchers:
 - Rent board games from [Ludothek](https://www.ludothek.de/gutscheine/spieleverleih/gutscheine) in Leipzig
