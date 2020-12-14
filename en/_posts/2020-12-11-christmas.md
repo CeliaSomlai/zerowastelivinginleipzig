@@ -8,7 +8,7 @@ ref: blog20201211
 
 Every year the same old question: What to do at Christmas? Depending on your cultural and family background, this one might be a hard one to answer. On one side, Christmas stands for contemplation, calmness and traditions - on the other it often also stands for stress, consumerism and indulgence.
 
-The simplest and most Zero Waste solution was suggested by one of our Zero Waste Living in Leipzig community members - Henna just does nothing for Christmas. No tree, no deco, no gifts, nothing. Even though I find the thought kind of freeing, of course, this might not be the most suitable solution for everyone! So let’s have a look on how you can reduce your wastefulness during the winter holidays. 
+The simplest and most Zero Waste solution was suggested by one of our Zero Waste Living in Leipzig community members - Henna just does nothing for Christmas. No tree, no deco, no gifts, nothing. Even though I find the thought kind of freeing, of course, this might not be the most suitable solution for everyone! So let’s have a look at how you can reduce your wastefulness during the winter holidays. 
 
 
 Hey hey!
