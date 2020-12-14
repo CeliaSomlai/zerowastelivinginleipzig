@@ -34,7 +34,7 @@ For example hang up the Christmas cards you receive and use these as bunting-sty
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HKUY_gOxLas?start=736" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <strong>Christmas Tree</strong> - you can easily craft a “tree” without sacrificing a living tree using natural materials like sticks and twines or pine cones. 
-If you want to have a real tree, you could consider having one that comes in a plant pot and can be planted outside after Christmas or reused again next Christmas. From what I hear, this strategy only has a limited success rate, as many potted trees aren’t likely to survive the year until the next festival season.But it’s definitely worth a try, I’d say.
+If you want to have a real tree, you could consider having one that comes in a plant pot and can be planted outside after Christmas or reused again next Christmas. From what I hear, this strategy only has a limited success rate, as many potted trees aren’t likely to survive the year until the next festival season. But it’s definitely worth a try, I’d say.
 If you do actually and up with a dead tree, here is the [link](https://www.leipzig.de/freizeit-kultur-und-tourismus/veranstaltungen-und-termine/weihnachten/ablagestellen-fuer-weihnachtsbaeume/) where you can leave your Christmas tree for the City cleaning to pick it up - I will try to figure out what they actually do with the trees. If I get an answer from them I will update it here. 
 
 
@@ -49,18 +49,18 @@ If you need to buy new decoration, try to invest in decorations that can be reus
 
 #### Experiences
 
-I really like to give <strong>vouchers</strong> for experiences. It can be something self created or commercialized.
+I really like to give <strong>vouchers</strong> for experiences. It can be something self-created or commercialized.
 
 Some ideas for self-made vouchers - special lockdown edition:
 - Nature walk with nice hot tea or mulled wine in a thermos (just be aware that consuming alcohol in public will not be legal during the [Christmas lockdown](https://www.bbc.com/news/world-europe-55292614)
-- Treasure hunt through the city, great fun with kids!
-- Family craft beer tasting. Again I am not being paid or affiliated or anything, I share all the eco initiatives that I come across. Rettergut teamed up with the Brewdog and came up with a New England IPA - [PLANET A - RETTERBIER](https://www.doerrwerk.de/rettergut/243/planet-a-retterbier) where they use not-so-perfect peaches and unsold bread to brew the beer.
+- A treasure hunt through the city, great fun with kids!
+- Family craft beer tasting. Again I am not being paid or affiliated or anything, I share all the eco-initiatives that I come across. Rettergut teamed up with the Brewdog and came up with a New England IPA - [PLANET A - RETTERBIER](https://www.doerrwerk.de/rettergut/243/planet-a-retterbier) where they use not-so-perfect peaches and unsold bread to brew the beer.
 
 
 Some ideas for commercial vouchers:
 - Rent board games from [Ludothek](https://www.ludothek.de/gutscheine/spieleverleih/gutscheine) in Leipzig
 - Discovering city of Leipzig with [Leipzig Card](https://www.leipzig.travel/en/offers/welcome-cards/leipzig-cards/) 
-- You can also surprise one of your loved ones with a membership to the [Leipziger Zoo](https://www.zoo-leipzig.de/zoobesuch-planen/preise-tickets/#accordion-section22), the [Leipzig Opera](https://www.oper-leipzig.de/de/service-preise)  or cinemas, museums or theatres.
+- You can also surprise one of your loved ones with a membership to the [Leipziger Zoo](https://www.zoo-leipzig.de/zoobesuch-planen/preise-tickets/#accordion-section22), the [Leipzig Opera](https://www.oper-leipzig.de/de/service-preise)  or cinemas, museums or theaters.
 - Or a super Zero Waste program - surprise someone or even yourself with an early bird ticket to the next [Zero Waste Berlin Festival](https://zerowasteberlinfestival.com/a-sustainable-xmas-for-the-planet/#buyticket) that will take place next summer at Malzfabrik. You will find me there, for sure!
 
 <strong>Donating</strong> for a good cause on someone’s behalf can also be a nice present. Here is some local ideas that I found:
@@ -82,6 +82,8 @@ I like to surprise people with seeds to plant something later during the next ye
 A fellow Zero Waste Living in Leipzig member, Andrea, is making beautiful (and practical) upcycled origami bags. Super zero waste, handmade in Leipzig. Check out her [Instagram account](https://www.instagram.com/frauguacamole/) and surprise someone with an origami bag! 
 
 [The Leipzig Recipe Calendar](https://ernaehrungsrat-leipzig.org/rezeptekalender/) (in German) is also a great and local present. You can order online or find it in the Zero Waste shops around Leipzig.
+
+And do not forget shopping second hand is a great way to avoid unnecessary packaging. eBay Kleinanzeigen is a great place to look for presents.
 
 ### Gift wrapping
 
